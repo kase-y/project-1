@@ -1,1 +1,4 @@
 tweepy==3.9.0
+markovify==0.8.3
+pycorpora==0.1.2
+
