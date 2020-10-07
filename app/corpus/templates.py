@@ -43,7 +43,7 @@ def random_key_value(dict):
     # key_value = dict.__getitem__(random.choice(list(dict)))
     random_key = str(random.choice(list(dict.keys())))
     random_value = str(dict[random_key])
-    key_value_str = random_key + ", " + random_value + ", "
+    key_value_str = random_key + "," + random_value + ","
     return key_value_str
 
 

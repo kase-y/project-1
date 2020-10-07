@@ -9,3 +9,5 @@ The starting point for a twitter bot, inspired by Christopher Strachey's love le
 
 [Tweepy API](https://github.com/tweepy/tweepy)
 
+[NYT API](https://developer.nytimes.com/apis)
+
