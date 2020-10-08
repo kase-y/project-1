@@ -12,7 +12,8 @@ api = tweepy.API(auth)
 
 possible_tweets = {
     "template_news_story": str_template(),
-    "markov news story": breaking_news(),
+    "markov_news_abstract": news_abstract(),
+    "markov_news_headline": news_headline(),
     "markov_tech_quote": tech_markov()
 }
 

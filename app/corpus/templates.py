@@ -5,7 +5,6 @@ from pycorpora import words, humans, medicine, objects, governments, societies_a
 
 templates = ["{who} believes \"{who2}s should {action} {object}\".",
              "{action} {preposition}",
-             "I heard that {chemical} causes {symptom}.",
              "According to scientist {scientist}, {disease} maybe be related to {chemical}.",
              "Controversial new {media_key_value} sparks protests around parts of {location}.", ]
 
